@@ -3,4 +3,4 @@
 - [x] Passing unittest to start with
 - [x] Makefile for common tasks
 - [x] .gitignore
-- [ ] examples for test library usage
+- [ ] Examples for test library usage
